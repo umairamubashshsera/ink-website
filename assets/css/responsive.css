@@ -1,0 +1,89 @@
+@media (min-width: 320px) and (max-width: 480px) {
+
+    .top_same_contnt h1 {
+        font-size: 30px;
+    }
+
+    .border_dash {
+        width: 90px;
+
+    }
+
+    .btn {
+        padding: 10px 10px;
+        font-size: 12px;
+    }
+
+    /********************hero***********/
+    .hero_section_outer {
+        padding: 30px 0px;
+    }
+
+    .hero_contnt {
+        margin-bottom: 30px;
+    }
+
+    .hero_contnt h1 {
+        font-size: 32px;
+    }
+
+    /*========testimonials============*/
+    .social_links {
+        display: none;
+    }
+
+    .testimonials .top_same_contnt p {
+        font-size: 20px;
+    }
+
+    .testimonials .quotes_img1 {
+        top: 100px;
+        left: 8px;
+    }
+
+    .testimonials .quotes_img2 {
+        right: 10px;
+        bottom: 180px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    .hero_contnt h1 {
+        font-size: 55px;
+    }
+
+    .btn {
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+
+    .top_same_contnt h1 {
+        font-size: 40px;
+    }
+
+    .testimonials .quotes_img1 {
+        top: 100px;
+        left: 15px;
+    }
+
+    .testimonials .quotes_img2 {
+        right: 30px;
+        bottom: 150px;
+    }
+}
+
+/*****************************************/
+@media (min-width: 768px) and (max-width: 991px) {
+    .btn {
+
+        font-size: 10px;
+    }
+
+    .top_same_contnt h1 {
+        font-size: 40px;
+    }
+
+    .hero_contnt h1 {
+        font-size: 45px;
+    }
+}
